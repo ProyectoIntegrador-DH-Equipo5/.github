@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/f6b0f02a-347e-4fc4-8451-f9fb8be17f8a)
 
-# Bienvenido al Proyecto Integrador del **Equipo 5** 🚀
+# Bienvenid@s al Proyecto Integrador del **Equipo 5** 🚀
 
 ### Actualmente, estamos trabajando en los siguientes repositorios:
 
@@ -16,5 +16,5 @@
 
 
 ---
-
-*pueden editarlo según sus preferencias o conforme se vayan actualizando los links, etc :)*
+> [!NOTE]
+> *pueden editarlo según sus preferencias o conforme se vayan actualizando los links, etc :)*
